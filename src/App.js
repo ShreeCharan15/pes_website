@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { Box, Center } from '@chakra-ui/layout';
+import { Box } from '@chakra-ui/layout';
 import { Redirect, Route, Switch } from 'react-router';
 import Home from './Home';
 import Events from './Events';

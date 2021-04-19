@@ -7,7 +7,7 @@ const Home=()=><>
   <div className="row">
     <div className="col-12 col-md-6" >
     <Center style={{height:"100%"}}>
-    <img src="./logo.png" style={{maxHeight:"450px",minHeight:"250px"}}></img>
+    <img src="https://shreecharan15.github.io/pes_website/logo.png" alt="pes21logo" style={{maxHeight:"450px",minHeight:"250px"}}></img>
     </Center>
     </div>
     <br/><br/>

@@ -1,7 +1,8 @@
 {
   "name": "pes_website",
   "version": "0.1.0",
-  "homepage": "http://ishaanj2000.github.io/pes_website",
+  "homepage": "http://ShreeCharan15.github.io/pes_website",
+
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.5.1",

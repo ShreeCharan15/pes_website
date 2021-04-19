@@ -8,7 +8,7 @@ const Navbar=(props)=>{
 <div className="container">
   <div className="row">
     <div className="col-auto">
-      <img src="./logo-blue.png" alt="logo" style={{maxHeight:"80px"}}></img>
+      <img src="https://shreecharan15.github.io/pes_website/logo-blue.png" alt="logo" style={{maxHeight:"80px"}}></img>
     </div>
     
     <div className="col" >
